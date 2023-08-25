@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 8422 1643"
+   enable-background="new 0 0 8422 1643"
+   xml:space="preserve"
+   id="svg94"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs98" />
+<g
+   id="Layer_1">
+	<image
+   overflow="visible"
+   width="8422"
+   height="1643"
+   xlink:href="image.jpg"
+   id="image76">
+	</image>
+</g>
+<g
+   id="Panels">
+	<rect
+   id="Entertainment"
+   x="1531"
+   opacity="0.6"
+   fill="#FFFFFF"
+   width="1953.33"
+   height="1643"
+   data-type="panel" />
+	<rect
+   id="Study"
+   x="3644.33"
+   opacity="0.6"
+   fill="#FFFFFF"
+   width="2079.43"
+   height="1643"
+   data-type="panel" />
+	<rect
+   id="Kitchen"
+   x="6357.67"
+   opacity="0.6"
+   fill="#FFFFFF"
+   width="820"
+   height="1643"
+   data-type="panel" />
+	<rect
+   id="Couch_2"
+   x="7391"
+   opacity="0.6"
+   fill="#FFFFFF"
+   width="1031"
+   height="1643"
+   data-type="panel" />
+	<rect
+   id="Couch"
+   opacity="0.6"
+   fill="#FFFFFF"
+   width="944.33"
+   height="1643"
+   data-type="panel" />
+</g>
+<g
+   id="Items">
+	<rect
+   id="Router"
+   x="1325.24"
+   y="1048.83"
+   fill="#9B4848"
+   width="236.05"
+   height="236.05"
+   data-type="item" />
+	<rect
+   id="Mucco"
+   x="2240.06"
+   y="1193.39"
+   fill="#9B4848"
+   width="352.38"
+   height="352.38"
+   data-type="item" />
+	<rect
+   id="Screen"
+   x="4038.08"
+   y="705.49"
+   fill="#9B4848"
+   width="618.92"
+   height="451.76"
+   data-type="item" />
+	<rect
+   id="Laptop"
+   x="3884.48"
+   y="1157.25"
+   fill="#9B4848"
+   width="600.85"
+   height="465.32"
+   data-type="item" />
+	<rect
+   id="Bottle"
+   x="4627.63"
+   y="1179.84"
+   fill="#9B4848"
+   width="212.33"
+   height="463.16"
+   data-type="item" />
+	<rect
+   id="Door"
+   x="6577"
+   y="429.91"
+   fill="#9B4848"
+   width="426.92"
+   height="935.15"
+   data-type="item" />
+	<rect
+   id="EU_Flag"
+   x="7914.22"
+   y="784.55"
+   fill="#9B4848"
+   width="144.56"
+   height="178.45"
+   data-type="item" />
+	<rect
+   id="Dorian"
+   x="7640.8999"
+   y="447.98001"
+   fill="#9b4848"
+   width="345.60001"
+   height="178.45"
+   data-type="item" />
+</g>
+</svg>
